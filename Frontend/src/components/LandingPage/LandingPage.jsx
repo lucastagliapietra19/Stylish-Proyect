@@ -15,7 +15,6 @@ const LandingPage = () => {
             <div className="landing-header">
                 <h1>Bienvenido a Stylish</h1>
                 <p>peluqueria</p>
-                <p>peluqueria</p>
             </div>
             <div className="landing-content">
                 <button className="enter-button" onClick={handleEnterToHomePage}>
