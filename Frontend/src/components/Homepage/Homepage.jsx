@@ -8,6 +8,11 @@ const Homepage = () => {
         ""
     );
 }
+const Homepage = () => {
 
+    return (
+        ""
+    );
+}
 
 export default Homepage;
