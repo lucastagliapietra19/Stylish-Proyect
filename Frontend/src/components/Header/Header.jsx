@@ -5,7 +5,7 @@ import '../../css/header.css'
 const Header = () => {
 
     return (
-        "sucess1"
+        "sucess"
     );
 }
 
