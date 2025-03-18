@@ -5,7 +5,7 @@ import '../../css/header.css'
 const Header = () => {
 
     return (
-        "logro01"
+        "logro02"
     );
 }
 
